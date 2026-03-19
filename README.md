@@ -1,7 +1,9 @@
 # Data Portfolio
 
-Este repositorio contiene mis proyectos de análisis de datos realizados durante el bootcamp TripleTen.  
-Cada proyecto incluye limpieza, transformación, análisis y visualización de datos con Python y herramientas como Pandas, Matplotlib y Seaborn.
+Soy Analista de Datos en formación con proyectos prácticos realizados durante el bootcamp TripleTen.
 
 ## Proyectos incluidos
-1. **Data-Visualization-Trends** – Análisis de ventas y visualización de tendencias.
+1. **[Data‑Visualization‑Trends](link)** – Análisis de ventas y visualización de tendencias.
+
+## Skills
+- Python · Pandas · SQL · Matplotlib · Seaborn · Excel
