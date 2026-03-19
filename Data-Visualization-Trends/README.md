@@ -12,6 +12,3 @@ Durante el bootcamp de TripleTen, trabajé con datasets simulados de ventas y cl
 - Identifiqué segmentos de clientes con mayor recurrencia de compra.  
 - Detecté patrones estacionales de ventas que permitieron sugerir estrategias de promoción.  
 - Generé dashboards visuales que facilitaron la toma de decisiones estratégicas.
-
-## Material visual
-![Ventas por Mes](https://github.com/araceliverap/Data-Visualization-Trends/raw/main/ventas_por_mes.png)
