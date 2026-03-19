@@ -13,5 +13,5 @@ Durante el bootcamp de TripleTen, trabajé con datasets simulados de ventas y cl
 - Detecté patrones estacionales de ventas que permitieron sugerir estrategias de promoción.  
 - Generé dashboards visuales que facilitaron la toma de decisiones estratégicas.
 
-## Material visual
-(Se agregarán imágenes más adelante usando “Upload files”)  
+## Material visual 
+![Ventas por Mes](Data-Visualization-Trends/pic.png)
