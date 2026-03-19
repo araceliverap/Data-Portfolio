@@ -14,4 +14,4 @@ Durante el bootcamp de TripleTen, trabajé con datasets simulados de ventas y cl
 - Generé dashboards visuales que facilitaron la toma de decisiones estratégicas.
 
 ## Material visual
-![Ventas por Mes](ventas_por_mes.png)
+![Ventas por Mes](https://github.com/araceliverap/Data-Visualization-Trends/raw/main/ventas_por_mes.png)
