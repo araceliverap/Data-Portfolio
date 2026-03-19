@@ -4,7 +4,8 @@ Soy Analista de Datos en formación con proyectos prácticos realizados durante 
 
 ## Proyectos incluidos
 
-1. **[Data‑Visualization‑Trends](https://github.com/araceliverap/Data-Visualization-Trends)** – Análisis de ventas y visualización de tendencias usando Python, Pandas, Matplotlib y Seaborn.
+1. Data‑Visualization‑Trends – Análisis de ventas y visualización de tendencias usando Python, Pandas, Matplotlib y Seaborn.
+
 
 ## Skills
 
